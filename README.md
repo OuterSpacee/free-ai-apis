@@ -213,6 +213,7 @@ No credit card required. Build AI apps for $0.
 | [Exa](https://exa.ai) | AI-native search API | 1,000 searches/month | `apiKey` | [Docs](https://docs.exa.ai) |
 | [Brave Search API](https://brave.com/search/api/) | Privacy-focused search | 2,000 queries/month | `apiKey` | [Docs](https://api.search.brave.com/app/documentation/) |
 | [SerpApi](https://serpapi.com) | Search engine results | 100 searches/month | `apiKey` | [Docs](https://serpapi.com/docs) |
+| [FastAF](https://fastaf.co/compare/free-tier/?utm_source=free-ai-apis&utm_medium=listing&utm_campaign=free-tier-lists) | Web search, SERP and scraping for LLMs | 500 free credits every month after email verification (not on x402) | `apiKey` | [Docs](https://fastaf.co/docs/) |
 | [SearXNG (Local)](https://github.com/searxng/searxng) | Self-hosted metasearch | Unlimited (local) | `None` | [Docs](https://docs.searxng.org) |
 
 <div align="right"><a href="#contents">Back to top</a></div>
