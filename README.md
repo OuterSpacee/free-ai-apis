@@ -74,6 +74,7 @@ No credit card required. Build AI apps for $0.
 | [SambaNova](https://sambanova.ai) | Fast inference platform | Free tier available | `apiKey` | [Docs](https://docs.sambanova.ai) |
 | [Novita AI](https://novita.ai) | LLM and image APIs | $0.50 free credits | `apiKey` | [Docs](https://novita.ai/docs) |
 | [Hyperbolic](https://hyperbolic.xyz) | Open-source model hosting | Free tier available | `apiKey` | [Docs](https://docs.hyperbolic.xyz) |
+| [NVIDIA NIM](https://build.nvidia.com) | Hosted Llama, DeepSeek, Qwen, Nemotron and more, OpenAI-compatible | Free prototyping access via NVIDIA Developer Program, rate limited | `apiKey` | [Docs](https://docs.api.nvidia.com) |
 
 <div align="right"><a href="#contents">Back to top</a></div>
 
