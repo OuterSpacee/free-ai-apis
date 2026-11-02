@@ -254,7 +254,6 @@ No credit card required. Build AI apps for $0.
 | API | Description | Free Tier | Auth | Docs |
 |-----|-------------|-----------|------|------|
 | [OpenRouter](https://openrouter.ai) | Unified API for 100+ models | Free models available | `apiKey` | [Docs](https://openrouter.ai/docs) |
-| [AIML API](https://aimlapi.com) | 200+ models, one API | Free tier included | `apiKey` | [Docs](https://docs.aimlapi.com) |
 | [LiteLLM](https://github.com/BerriAI/litellm) | Unified proxy for all providers | Unlimited (self-hosted) | `None` | [Docs](https://docs.litellm.ai) |
 | [Puter](https://puter.com) | Free AI in browser | Free, no signup | `None` | [Docs](https://developer.puter.com) |
 
