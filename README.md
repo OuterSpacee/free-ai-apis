@@ -77,6 +77,7 @@ No credit card required. Build AI apps for $0.
 | [NVIDIA NIM](https://build.nvidia.com) | Hosted Llama, DeepSeek, Qwen, Nemotron and more, OpenAI-compatible | Free prototyping access via NVIDIA Developer Program, rate limited | `apiKey` | [Docs](https://docs.api.nvidia.com) |
 | [Cloudflare Workers AI](https://developers.cloudflare.com/workers-ai/) | Serverless open-source LLMs, image and speech models | 10,000 Neurons/day free | `apiKey` | [Docs](https://developers.cloudflare.com/workers-ai/) |
 | [Z.ai (Zhipu)](https://z.ai) | GLM models via API | GLM-4.7-Flash, GLM-4.5-Flash and GLM-4.6V-Flash are free | `apiKey` | [Docs](https://docs.z.ai) |
+| [cheapllm.shop](https://cheapllm.shop) | DeepSeek V4.1 Flash 1017 (text + image input, reasoning, tools), OpenAI- and Anthropic-compatible | Free, no rate limit during current beta; after it, permanent free tier of 5K input + 1K output tokens/hour minimum | `apiKey` | [Docs](https://cheapllm.shop/docs) |
 
 <div align="right"><a href="#contents">Back to top</a></div>
 
