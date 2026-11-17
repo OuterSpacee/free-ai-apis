@@ -120,6 +120,7 @@ No credit card required. Build AI apps for $0.
 | [Coqui TTS (Local)](https://github.com/coqui-ai/TTS) | Open-source TTS | Unlimited (local) | `None` | [Docs](https://docs.coqui.ai/en/latest/) |
 | [Piper (Local)](https://github.com/OHF-Voice/piper1-gpl) | Fast local TTS | Unlimited (local) | `None` | [Docs](https://github.com/OHF-Voice/piper1-gpl) |
 | [Bark (Local)](https://github.com/suno-ai/bark) | Multilingual TTS | Unlimited (local) | `None` | [Docs](https://github.com/suno-ai/bark) |
+| [Unreal Speech](https://unrealspeech.com) | Natural-sounding AI voices | 250K characters/month | `apiKey` | [Docs](https://docs.unrealspeech.com/reference/getting-started-with-our-api) |
 
 <div align="right"><a href="#contents">Back to top</a></div>
 
