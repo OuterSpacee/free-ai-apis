@@ -195,6 +195,7 @@ No credit card required. Build AI apps for $0.
 | [Diffbot](https://diffbot.com) | Structured data extraction | 10K pages free trial | `apiKey` | [Docs](https://www.diffbot.com/docs/) |
 | [Unstructured](https://unstructured.io) | Document parsing | Free API tier | `apiKey` | [Docs](https://docs.unstructured.io) |
 | [LlamaParse](https://www.llamaindex.ai/llamaparse) | Document parsing for LLMs | 10K credits/month | `apiKey` | [Docs](https://docs.cloud.llamaindex.ai) |
+| [GetYouTubeTranscript](https://getyoutubetranscript.com) | YouTube transcript extraction with timestamps, plus AI summaries | 100 free credits on signup | `apiKey` | [Docs](https://getyoutubetranscript.com/docs) |
 
 <div align="right"><a href="#contents">Back to top</a></div>
 
